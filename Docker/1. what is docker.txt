@@ -1,0 +1,24 @@
+what is docker?
+	Docker is a platform that helps developer to build, share, and run applications with container.. 
+
+
+--------------------- Scenario ---------------------------
+
+I. developer 1 started a project
+ii. Developer-2 join after 2 years
+
+Problem Occurred:   Now frameworks and library version has updated and some library or code not working properly ..
+
+==> Docker is a solution:-  A docker container has everything about a project like CODE, RUNTIME, SYSTEM TOOLS, SYSTEM LIBRARIES AND SETTINGS WITH SPECIFIC VERSION.. 
+
+==> We use this container to build, run and share code or project .. 
+
+
+============================= Why Docker?? ====================
+==> IMPORTANCE
+
+- This is important skill for developers
+- Required skill for exp. developers
+- Developers has to deploy project
+- It can help us to get a good job
+- It helps productivity .. 

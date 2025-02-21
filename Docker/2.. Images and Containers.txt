@@ -1,0 +1,27 @@
+====== IMAGES AND CONTAINERS =========
+Images:- are templates of project
+Containers:- Running instance of Image.. 
+
+
+=============== IMAGES
+- It is kind of ready to use software read-only template
+- Images is made with source code, libraries, external dependencies , and tools
+- Images can not be updated
+- If we want to make change in image we have to create new image
+- Images can not run directly .. 
+
+Example: 
+- Application tool and libraries
+- Node js setup
+- React setup
+- Code of application
+- Dependencies
+- any other supporting tool
+- docker file too
+
+============== CONTAINER 
+
+- Runnable instance of Image
+- The container is a process that runs application with images
+- Container is an isolated process
+Means container run independently on computer 
