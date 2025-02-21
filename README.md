@@ -32,9 +32,13 @@ This repository contains various topics and projects I have explored:
 🔹 Stats, Time Series Analysis, Web Scraping – Extracting and analyzing data trends
 
 📊 Technologies & Skills
+
 ✔ Python, SQL, Power BI, NumPy, Pandas
+
 ✔ Machine Learning & Deep Learning
+
 ✔ Data Engineering & Web Scraping
+
 ✔ Git & Docker for reproducible workflows
 
 
