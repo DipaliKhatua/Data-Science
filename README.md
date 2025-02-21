@@ -27,6 +27,7 @@ This repository contains various topics and projects I have explored:
 ✔ Git & Docker for reproducible workflows
 
 🌱 Learning & Growth
+
 I believe in continuous learning and sharing my journey through self-projects. My projects come from various sources, including YouTube, GitHub, and my own ideas.
 As I continue to explore new and meaningful concepts, I will keep updating this repository with more projects, insights, and learning materials.
 
