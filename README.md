@@ -5,9 +5,13 @@
 Welcome to my Data Science Portfolio, where I showcase my journey in Data Science, Machine Learning, and Analytics. I am deeply passionate about data-driven insights and continuously learning through YouTube, Google, GitHub, and self-driven projects.
 
 📌 About Me
+
 ✔ Total Experience: 3.5 years in Data Engineering & Analytics
+
 ✔ Data Science Focus: 2 years of hands-on experience
+
 ✔ Self-Taught: Learning through open resources & real-world projects
+
 ✔ Skills: Python, SQL, Machine Learning, Power BI, Data Visualization
 
 
