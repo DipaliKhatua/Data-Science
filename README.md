@@ -5,20 +5,21 @@
 Welcome to my Data Science Portfolio, where I showcase my journey in Data Science, Machine Learning, and Analytics. I am deeply passionate about data-driven insights and continuously learning through YouTube, Google, GitHub, and self-driven projects.
 
 📌 About Me
-3.5 years of experience in Data Engineering & Analytics, with a strong focus on Data Science for the past 2 years
-Self-taught, leveraging open resources and real-world projects
-Hands-on with Python, SQL, Machine Learning, and Data Visualization
+✔ Total Experience: 3.5 years in Data Engineering & Analytics
+✔ Data Science Focus: 2 years of hands-on experience
+✔ Self-Taught: Learning through open resources & real-world projects
+✔ Skills: Python, SQL, Machine Learning, Power BI, Data Visualization
+
 
 📂 Repository Structure
-
 This repository contains various topics and projects I have explored:
 
-🔹 Big Data (PySpark) - Working with distributed computing
-🔹 Docker - Containerizing ML and Data Science applications
-🔹 End-to-End Machine Learning Projects - Complete ML workflows
-🔹 Excel Projects - Data analysis and visualization with Excel
-🔹 Matplotlib, Seaborn, NumPy, Pandas - Data visualization and manipulation
-🔹 Stats, Time Series Analysis, Web Scraping - Extracting and analyzing data trends
+🔹 Big Data (PySpark) – Working with distributed computing
+🔹 Docker – Containerizing ML and Data Science applications
+🔹 End-to-End Machine Learning Projects – Complete ML workflows
+🔹 Excel Projects – Data analysis and visualization with Excel
+🔹 Matplotlib, Seaborn, NumPy, Pandas – Data visualization and manipulation
+🔹 Stats, Time Series Analysis, Web Scraping – Extracting and analyzing data trends
 
 📊 Technologies & Skills
 ✔ Python, SQL, Power BI, NumPy, Pandas
@@ -34,6 +35,11 @@ As I continue to explore new and meaningful concepts, I will keep updating this 
 
 Feel free to explore, contribute, and connect with me on LinkedIn! https://www.linkedin.com/in/dipalikhatua/
 
-📌 Disclaimer:
+📌 Disclaimer
+Some projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights.
 
-Some of the projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights. All credits go to the original creators for their valuable contributions to the Data Science community.
+🚀 All credits go to the original creators for their valuable contributions to the Data Science community.
+
+
+📌 Let’s Connect!
+📍 LinkedIn: https://www.linkedin.com/in/dipalikhatua/
