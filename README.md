@@ -26,9 +26,14 @@ This repository contains various topics and projects I have explored:
 ✔ Data Engineering & Web Scraping
 ✔ Git & Docker for reproducible workflows
 
+
 🌱 Learning & Growth
 
 I believe in continuous learning and sharing my journey through self-projects. My projects come from various sources, including YouTube, GitHub, and my own ideas.
 As I continue to explore new and meaningful concepts, I will keep updating this repository with more projects, insights, and learning materials.
 
 Feel free to explore, contribute, and connect with me on LinkedIn! https://www.linkedin.com/in/dipalikhatua/
+
+📌 Disclaimer:
+
+Many of the projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights. All credits go to the original creators for their valuable contributions to the Data Science community.
