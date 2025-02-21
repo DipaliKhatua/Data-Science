@@ -43,14 +43,17 @@ This repository contains various topics and projects I have explored:
 
 
 🌱 Learning & Growth
+
 I believe in continuous learning and sharing my journey through self-projects. My projects come from various sources, including YouTube, GitHub, and my own ideas. As I continue to explore new and meaningful concepts, I will keep updating this repository with more projects, insights, and learning materials.
 
 
 📌 Disclaimer
+
 Some projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights.
 
 🚀 All credits go to the original creators for their valuable contributions to the Data Science community.
 
 
 📌 Let’s Connect!
+
 📍 LinkedIn: https://www.linkedin.com/in/dipalikhatua/
