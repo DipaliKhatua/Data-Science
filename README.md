@@ -36,4 +36,4 @@ Feel free to explore, contribute, and connect with me on LinkedIn! https://www.l
 
 📌 Disclaimer:
 
-Many of the projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights. All credits go to the original creators for their valuable contributions to the Data Science community.
+Some of the projects in this repository are inspired by online resources such as YouTube tutorials, blogs, and open-source projects. I have used these resources as learning references and have built upon them with my own modifications, improvements, and additional insights. All credits go to the original creators for their valuable contributions to the Data Science community.
