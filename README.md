@@ -7,7 +7,9 @@ Welcome to my Data Science Portfolio, where I showcase my journey in Data Scienc
 3.5 years of experience in Data Engineering & Analytics, with a strong focus on Data Science for the past 2 years
 Self-taught, leveraging open resources and real-world projects
 Hands-on with Python, SQL, Machine Learning, and Data Visualization
+
 📂 Repository Structure
+
 This repository contains various topics and projects I have explored:
 
 🔹 Big Data (PySpark) - Working with distributed computing
@@ -16,6 +18,7 @@ This repository contains various topics and projects I have explored:
 🔹 Excel Projects - Data analysis and visualization with Excel
 🔹 Matplotlib, Seaborn, NumPy, Pandas - Data visualization and manipulation
 🔹 Stats, Time Series Analysis, Web Scraping - Extracting and analyzing data trends
+
 📊 Technologies & Skills
 ✔ Python, SQL, Power BI, NumPy, Pandas
 ✔ Machine Learning & Deep Learning
