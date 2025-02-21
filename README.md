@@ -16,13 +16,19 @@ Welcome to my Data Science Portfolio, where I showcase my journey in Data Scienc
 
 
 📂 Repository Structure
+
 This repository contains various topics and projects I have explored:
 
 🔹 Big Data (PySpark) – Working with distributed computing
+
 🔹 Docker – Containerizing ML and Data Science applications
+
 🔹 End-to-End Machine Learning Projects – Complete ML workflows
+
 🔹 Excel Projects – Data analysis and visualization with Excel
+
 🔹 Matplotlib, Seaborn, NumPy, Pandas – Data visualization and manipulation
+
 🔹 Stats, Time Series Analysis, Web Scraping – Extracting and analyzing data trends
 
 📊 Technologies & Skills
