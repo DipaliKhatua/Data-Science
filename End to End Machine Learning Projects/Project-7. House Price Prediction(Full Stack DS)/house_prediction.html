@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        form {
+            max-width: 400px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+        }
+        input, button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>House Price Prediction</h2>
+    <form id="predictForm">
+        <input type="number" step="any" id="MedInc" placeholder="Median Income" required>
+        <input type="number" step="any" id="HouseAge" placeholder="House Age" required>
+        <input type="number" step="any" id="AveRooms" placeholder="Average Rooms" required>
+        <input type="number" step="any" id="AveBedrms" placeholder="Average Bedrooms" required>
+        <input type="number" step="any" id="Population" placeholder="Population" required>
+        <input type="number" step="any" id="AveOccup" placeholder="Average Occupancy" required>
+        <input type="number" step="any" id="Latitude" placeholder="Latitude" required>
+        <input type="number" step="any" id="Longitude" placeholder="Longitude" required>
+        <button type="submit">Predict Price</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('predictForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            
+            const data = {
+                MedInc: parseFloat(document.getElementById('MedInc').value),
+                HouseAge: parseFloat(document.getElementById('HouseAge').value),
+                AveRooms: parseFloat(document.getElementById('AveRooms').value),
+                AveBedrms: parseFloat(document.getElementById('AveBedrms').value),
+                Population: parseFloat(document.getElementById('Population').value),
+                AveOccup: parseFloat(document.getElementById('AveOccup').value),
+                Latitude: parseFloat(document.getElementById('Latitude').value),
+                Longitude: parseFloat(document.getElementById('Longitude').value)
+            };
+            
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+            
+            const result = await response.json();
+            document.getElementById('result').innerText = result.predicted_price ? `Predicted Price: $${result.predicted_price}` : `Error: ${result.error}`;
+        });
+    </script>
+</body>
+</html>
