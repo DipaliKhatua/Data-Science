@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bitcoin Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 40px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type=number] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0 16px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            background-color: #007BFF;
+            color: white;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #2E8B57;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Bitcoin Price Prediction</h2>
+        <form method="POST" action="/predict">
+            <label for="Open">Open Price:</label>
+            <input type="number" step="any" name="Open" required>
+
+            <label for="High">High Price:</label>
+            <input type="number" step="any" name="High" required>
+
+            <label for="Low">Low Price:</label>
+            <input type="number" step="any" name="Low" required>
+
+            <label for="Volume">Volume:</label>
+            <input type="number" step="any" name="Volume" required>
+
+            <label for="Price_Change">Price Change:</label>
+            <input type="number" step="any" name="Price_Change" required>
+
+            <label for="Daily_Return">Daily Return:</label>
+            <input type="number" step="any" name="Daily_Return" required>
+
+            <label for="MA_5">5-Day Moving Average:</label>
+            <input type="number" step="any" name="MA_5" required>
+
+            <label for="MA_10">10-Day Moving Average:</label>
+            <input type="number" step="any" name="MA_10" required>
+
+            <button type="submit">Predict Price</button>
+        </form>
+
+        {% if prediction_text %}
+        <div class="result">
+            <p>{{ prediction_text }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
