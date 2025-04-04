@@ -1,0 +1,5 @@
+2025-04-04 21:55:46,701 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 1
+2025-04-04 21:55:46,703 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 2
+2025-04-04 21:55:46,703 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 3
+2025-04-04 21:55:50,233 - 12 - root - INFO - The execution has started
+2025-04-04 21:55:50,243 - 29 - root - INFO - Custom Exception

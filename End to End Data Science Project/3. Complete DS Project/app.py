@@ -3,7 +3,7 @@ from src.DSProject.exception import CustomException
 from src.DSProject.components.data_ingestion import DataIngestion
 from src.DSProject.components.data_ingestion import DataIngestionConfig
 from src.DSProject.components.data_transformation import DataTransformationConfig,DataTransformation
-from src.DSProject.components.model_tranier import ModelTrainerConfig,ModelTrainer
+from src.DSProject.components.model_trainer import ModelTrainerConfig,ModelTrainer
 
 import sys
 

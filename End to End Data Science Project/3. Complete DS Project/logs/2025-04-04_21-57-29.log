@@ -1,0 +1,10 @@
+2025-04-04 21:57:45,887 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 1
+2025-04-04 21:57:45,889 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 2
+2025-04-04 21:57:45,889 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 3
+2025-04-04 21:57:53,176 - 12 - root - INFO - The execution has started
+2025-04-04 21:57:53,234 - 27 - root - INFO - Reading completed mysql database
+2025-04-04 21:57:53,260 - 36 - root - INFO - Data Ingestion is completed
+2025-04-04 21:57:53,296 - 72 - root - INFO - Reading the train and test file
+2025-04-04 21:57:53,298 - 51 - root - INFO - Categorical Columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2025-04-04 21:57:53,298 - 52 - root - INFO - Numerical Columns:['writing_score', 'reading_score']
+2025-04-04 21:57:53,298 - 29 - root - INFO - Custom Exception
