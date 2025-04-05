@@ -1,0 +1,16 @@
+2025-04-05 10:08:55,215 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 1
+2025-04-05 10:08:55,215 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 2
+2025-04-05 10:08:55,215 - 27 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 3
+2025-04-05 10:08:57,532 - 11 - root - INFO - The execution has started
+2025-04-05 10:08:57,539 - 27 - root - INFO - Reading completed mysql database
+2025-04-05 10:08:57,574 - 36 - root - INFO - Data Ingestion is completed
+2025-04-05 10:08:57,574 - 18 - root - INFO - Train data path: artifacts\train.csv
+2025-04-05 10:08:57,574 - 19 - root - INFO - Test data path: artifacts\test.csv
+2025-04-05 10:08:57,652 - 68 - root - INFO - Reading the train and test file
+2025-04-05 10:08:57,652 - 49 - root - INFO - Categorical Columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+2025-04-05 10:08:57,652 - 50 - root - INFO - Numerical Columns: ['writing score', 'reading score']
+2025-04-05 10:08:57,707 - 87 - root - INFO - Applying preprocessing on training and test datasets
+2025-04-05 10:08:57,876 - 95 - root - INFO - Saved preprocessing object
+2025-04-05 10:08:57,880 - 39 - root - INFO - Split training and test input data
+2025-04-05 10:10:50,723 - 93 - root - INFO - This is the best model: Linear Regression
+2025-04-05 10:10:50,723 - 98 - root - INFO - Best model found on both training and testing datasets
