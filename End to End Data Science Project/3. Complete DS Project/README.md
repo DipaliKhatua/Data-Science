@@ -81,4 +81,4 @@ End-to-End Data Science Project/
 
 ## @ Author:
 Dipali Khatua
-Connect with me on # LinkedIn (https://www.linkedin.com/in/dipalikhatua/)
+- Connect with me on # LinkedIn (https://www.linkedin.com/in/dipalikhatua/)
