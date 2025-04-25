@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Dipali Khatua",
+      "username": "dipalik",
+      "bio": "A passionate Data Scientist and AI enthusiast with a creative flair. Enjoys blending technology with storytelling.",
+      "interests": ["AI", "Data Engineering", "Writing", "Machine Learning", "Poetry"],
+      "writing_samples": [
+        "I love exploring how data can tell a story.",
+        "Every dataset hides a secret waiting to be discovered.",
+        "In AI, we don't just build models; we build magic.",
+        "Poetry is the language of the soul. Data is the language of the world."
+      ]
+    },
+    {
+      "id": "luna02",
+      "name": "Luna Ray",
+      "bio": "A daydreamer and poet, usually found staring at clouds or books.",
+      "interests": ["Poetry", "Psychology", "Nature"],
+      "writing_samples": [
+        "Thoughts are just butterflies waiting to land on the page."
+      ]
+    },
+    {
+      "id": "neo03",
+      "name": "Neo Noir",
+      "bio": "Film noir buff with a taste for conspiracy theories and cold brew.",
+      "interests": ["Film Noir", "History", "Dark Comedy"],
+      "writing_samples": [
+        "Everyone has a story — mine’s written in shadows and static."
+      ]
+    }
+  ]
